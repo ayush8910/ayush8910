@@ -17,14 +17,6 @@
 
 ---
 
-## 💼 Experience
-**Frontend Developer (Freelance) — Baya Couture LLP**  
-📅 *June 2025 – Aug 2025*  
-- Improved website loading speed by **50%** using caching & image optimization.  
-- Configured **Razorpay payment gateway** both on-site and in dashboard for secure transactions.  
-
----
-
 ## 🧩 Projects
 
 ### 🏥 [Arogya](https://github.com/ayush8910/Arogya-fullstack)
