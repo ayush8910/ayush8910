@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 About Me
-🎓 I'm a **Computer Science student** at D.G. Ruparel College (GPA: 8.2), graduating in **June 2025**.  
+🎓 I'm a **Computer Science student** at D.G. Ruparel College (GPA: 8.2), graduated in **June 2025**.  
 💻 Skilled in **MERN stack development**, with hands-on experience building and deploying full-stack projects.  
 🌱 Currently focusing on improving backend performance and fullstack scalability.  
 📍 Based in **Mumbai, India**.  
