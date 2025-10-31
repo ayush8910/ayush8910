@@ -1,0 +1,19 @@
+name: Update README
+on:
+  schedule:
+    - cron: '0 0 * * *' # every 24 hours
+  workflow_dispatch:     # allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: echo "Last updated on $(date)" > update.log
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'update.log'
+          message: "chore: auto update README"
