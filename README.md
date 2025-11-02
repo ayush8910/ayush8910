@@ -35,7 +35,7 @@
 - Full-stack **e-commerce web app** with product listings, cart, checkout, and order management.  
 - Integrated **Stripe** payments and **JWT-based authentication**.  
 
-### ⚡ [OneClickWeb](https://github.com/ayush8910/OneClickWeb)
+### ⚡ [OneClickWeb](https://github.com/ayush8910/OneClick-Web)
 > **React.js | Tailwind CSS | Gemini**  
 - AI-powered **frontend UI generator** using the **Gemini API** to create complete web interfaces from prompts.  
 - Includes a **live preview**, **code editor**, and **one-click download** for instant deployment.  
