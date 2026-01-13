@@ -15,14 +15,22 @@
     
 ---    
     
-## 🧠 About Me    
-🎓 I’m a Computer Science graduate from D.G. Ruparel College (GPA: 8.2), Class of June 2025.
-💻 I focus on software development, with hands-on experience building full-stack applications using the MERN stack.
-📊 Alongside development, I bring strong Business Analysis skills—gathering requirements, analyzing user and business needs, and translating them into clear, functional solutions.
-🤝 I’ve worked closely with engineering and product teams, ensuring alignment between technical feasibility and business goals.
-🔍 My technical background helps me understand system workflows, data flow, and implementation constraints, enabling better communication and decision-making.
+🧠 About Me
+🎓 I’m a Computer Science graduate from D.G. Ruparel College (GPA: 8.2),
+completed in June 2025.
+💻 I focus on software development, with hands-on experience building
+full-stack applications using the MERN stack.
+📊 Alongside development, I bring strong Business Analysis skills—
+gathering requirements, analyzing user and business needs, and translating
+them into clear, functional solutions.
+🤝 I’ve worked closely with engineering and product teams, ensuring
+alignment between business goals and technical feasibility.
+🔍 My technical background helps me understand system workflows,
+data flows, and implementation constraints, enabling better
+communication and decision-making.
 📍 Based in Mumbai, India
-📫 Reach me at ayush.gupta3133@gmail.com      
+📫 Reach me at
+ayush.gupta3133@gmail.com  
     
 ---    
     
